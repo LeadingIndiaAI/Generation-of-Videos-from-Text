@@ -1,5 +1,5 @@
 # Generation-of-videos-from-News-stories
-Description: Recent advancements in internet, media capturing, and mobile
+Recent advancements in internet, media capturing, and mobile
 technologies have let fast growing News industries to produce and publish
 News stories rapidly. In recent days News industry is trying lot to make their
 news stories attractive and more engaging to their readers. Youngsters these
@@ -27,3 +27,5 @@ images and videos related to news content should be automatically discovered
 by crawling from internet and can be instantly used as background scenery in
 the video. This effort will also consider the analysis of the aforementioned steps
 in a faster manner for real-time video production.
+
+
